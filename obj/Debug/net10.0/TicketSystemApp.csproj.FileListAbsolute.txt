@@ -95,3 +95,4 @@ C:\Users\arcel\.vscode\TicketSystemApp\obj\Debug\net10.0\refint\TicketSystemApp.
 C:\Users\arcel\.vscode\TicketSystemApp\obj\Debug\net10.0\TicketSystemApp.pdb
 C:\Users\arcel\.vscode\TicketSystemApp\obj\Debug\net10.0\TicketSystemApp.genruntimeconfig.cache
 C:\Users\arcel\.vscode\TicketSystemApp\obj\Debug\net10.0\ref\TicketSystemApp.dll
+C:\Users\arcel\.vscode\TicketSystemApp\obj\Debug\net10.0\TicketSystemApp.sourcelink.json
