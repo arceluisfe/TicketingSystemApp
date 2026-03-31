@@ -1,0 +1,15 @@
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\bin\Debug\net8.0-windows\TicketingSystemUI.exe
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\bin\Debug\net8.0-windows\TicketingSystemUI.deps.json
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\bin\Debug\net8.0-windows\TicketingSystemUI.runtimeconfig.json
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\bin\Debug\net8.0-windows\TicketingSystemUI.dll
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\bin\Debug\net8.0-windows\TicketingSystemUI.pdb
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.AssemblyInfoInputs.cache
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.AssemblyInfo.cs
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.sourcelink.json
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.dll
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\refint\TicketingSystemUI.dll
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.pdb
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\TicketingSystemUI.genruntimeconfig.cache
+C:\Users\arcel\.vscode\TicketSystemApp\TicketingSystemUI\obj\Debug\net8.0-windows\ref\TicketingSystemUI.dll
