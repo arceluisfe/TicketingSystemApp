@@ -1,10 +1,12 @@
-namespace TicketSystemApp.Models
+namespace TicketingSystemApp.Models
 {
     public class Ticket
     {
         public int Id { get; set; }
         public string Title { get; set; } = string.Empty;
-public string Description { get; set; } = string.Empty;        public string Status { get; set; } = "Open"; // Default status
+        public string Description { get; set; } = string.Empty;
+        public string Status { get; set; } = "Open";
+        public string Priority { get; set; } = "Low";
         public DateTime CreatedAt { get; set; } = DateTime.Now;
     }
 }
